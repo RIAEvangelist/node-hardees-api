@@ -1,0 +1,21 @@
+{
+  "name": "hardees",
+  "version": "0.0.1",
+  "description": "Hardee's api",
+  "exports": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RIAEvangelist/node-hardees-api.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hardees",
+    "api",
+    "node"
+  ],
+  "author": "Brandon Nozaki Miller",
+  "license": "MIT"
+}
